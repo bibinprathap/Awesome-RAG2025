@@ -16,6 +16,7 @@
      - [Embeddings](#embeddings)
      - [Vector Search](#vector-search)
      - [RAG Fusion](#rag-fusion)
+  - [Graph RAG](#graph-rag)
   - [Not Vector retrieval](#not-vector-retrieval)
 - [Prompts](#prompts)
   - [Prompting strategies](#prompting-strategies)
